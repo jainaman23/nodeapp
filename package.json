@@ -1,0 +1,14 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Two Way Communication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman Jain",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "socket.io": "^2.0.3"
+  }
+}
